@@ -1,0 +1,7 @@
+{
+  "editor.inlineSuggest.edits.allowCodeShifting": "horizontal",
+  "editor.inlineSuggest.edits.renderSideBySide": "never",
+  "editor.inlineSuggest.enabled": false,
+  "editor.inlineSuggest.suppressInSnippetMode": false,
+  "editor.inlineSuggest.syntaxHighlightingEnabled": false
+}
